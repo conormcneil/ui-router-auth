@@ -1,0 +1,14 @@
+{
+  "name": "ui-router-auth",
+  "version": "1.0.0",
+  "description": "State-based authorization for easy implementation in Angular 1.x projects.'",
+  "main": "uiAuth.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "uirouter"
+  ],
+  "author": "Conor Kingston",
+  "license": "ISC"
+}
